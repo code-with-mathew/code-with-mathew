@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-with-mathew
+- 👋 Hi, I’m mathew
 - 👀 I’m interested in AI mahchine learning & data science
 - 🌱 I’m currently learning Gan's and meta learning and advanced deep learning programs
 - 💞️ I’m looking to collaborate on ...
